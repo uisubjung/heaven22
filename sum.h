@@ -1,3 +1,4 @@
-#IFNDEF __SUM_h__
+#infdef __sum_h__
+#define __sum_h__
 int sum(int n);
-#ENDIF
+#endif
